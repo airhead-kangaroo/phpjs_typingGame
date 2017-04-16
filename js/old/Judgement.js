@@ -1,0 +1,6 @@
+class Judgement{
+  constructor(){
+  }
+
+
+}
